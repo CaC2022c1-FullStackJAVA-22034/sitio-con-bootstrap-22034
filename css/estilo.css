@@ -1,0 +1,11 @@
+.colorPrincipal {
+    background-color: chocolate;
+}
+
+.fondo-imagen {
+    background-image: url("https://picsum.photos/800/300");
+}
+
+.letras-blancas {
+    color: white;
+}
